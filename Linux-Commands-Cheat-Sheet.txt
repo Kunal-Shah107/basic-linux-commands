@@ -308,3 +308,21 @@ cd
 
 # Change to the /etc directory
 cd /etc
+
+List files and directories in the current directory.
+ls
+
+ls -a
+List all files and directories in the current directory (shows hidden files).
+
+ls -l
+List files and directories in long format.
+
+pwd
+Show the directory you are currently working in.
+
+cd -
+Change to the previous directory.
+
+dirs
+Show current directory stack.
